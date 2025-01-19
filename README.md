@@ -1,5 +1,7 @@
 # Starbucks Rewards: Decoding Customer Engagement with Data
 
+![image info](./pictures/header.png)
+
 ## Project Overview
 
 Starbucks rewards its customers through various promotional offers, such as Buy-One-Get-One (BOGO), discounts, and informational campaigns. Each offer type aims to boost customer engagement and spending. But which demographic groups respond best to each offer type? What is the optimal way to present these offers to maximize their effectiveness?
@@ -56,9 +58,12 @@ These metrics are particularly relevant due to the imbalanced nature of the data
 
 ### Visualizations
 
-- **Gender Distribution:** [Placeholder for bar chart]
-- **Income Range Distribution:** [Placeholder for histogram]
-- **Age Distribution (after cleaning):** [Placeholder for histogram]
+- **Gender Distribution:** 
+![image info](./pictures/gender.png)
+- **Income Range Distribution:** 
+![image info](./pictures/income_range.png)
+- **Age Distribution (after cleaning):** 
+![image info](./pictures/age_dist.png)
 
 These visualizations revealed key patterns, such as the dominance of middle-income users and the importance of cleaning erroneous age data.
 
@@ -118,7 +123,7 @@ Two classification models were implemented:
 - **Random Forest** outperformed Logistic Regression in predicting offer completions but struggled due to data imbalance.
 - Feature importance analysis highlighted the significant influence of income, age, and channel on offer completion rates.
 
-[Placeholder for Feature Importance Bar Chart]
+![image info](./pictures/feature_imp.png)
 
 ---
 
