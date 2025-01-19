@@ -1,6 +1,6 @@
 # Starbucks Rewards: Decoding Customer Engagement with Data
 
-![image info](./pictures/header.png)
+![image info](./pictures/header.jpg)
 
 ## Project Overview
 
@@ -59,11 +59,17 @@ These metrics are particularly relevant due to the imbalanced nature of the data
 ### Visualizations
 
 - **Gender Distribution:** 
+
 ![image info](./pictures/gender.png)
+
 - **Income Range Distribution:** 
+
 ![image info](./pictures/income_range.png)
+
 - **Age Distribution (after cleaning):** 
+
 ![image info](./pictures/age_dist.png)
+
 
 These visualizations revealed key patterns, such as the dominance of middle-income users and the importance of cleaning erroneous age data.
 
