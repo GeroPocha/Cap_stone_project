@@ -170,6 +170,3 @@ By analyzing customer behavior, this project answered the central question: **"W
 
 ---
 
-### GitHub Repository
-Find the full project, including code and documentation, in the [GitHub repository](#).
-
